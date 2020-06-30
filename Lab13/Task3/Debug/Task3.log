@@ -1,0 +1,5 @@
+﻿  Task3.cpp
+d:\study\5 sem\ossp\lab 14 files\task3\task3.cpp(13): warning C4101: Buffer: неиспользованная локальная переменная
+d:\study\5 sem\ossp\lab 14 files\task3\task3.cpp(16): warning C4101: fp: неиспользованная локальная переменная
+  Task3.vcxproj -> D:\study\5 sem\OSSP\Lab 14 Files\Debug\Task3.exe
+  Task3.vcxproj -> D:\study\5 sem\OSSP\Lab 14 Files\Debug\Task3.pdb (Full PDB)

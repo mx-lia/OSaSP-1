@@ -1,0 +1,7 @@
+﻿  Task4.cpp
+d:\study\5 sem\ossp\lab 14 files\task4\task4.cpp(13): warning C4101: Buffer: неиспользованная локальная переменная
+d:\study\5 sem\ossp\lab 14 files\task4\task4.cpp(16): warning C4101: fp: неиспользованная локальная переменная
+d:\study\5 sem\ossp\lab 14 files\task4\task4.cpp(15): warning C4101: dwNumberOfBytes: неиспользованная локальная переменная
+d:\study\5 sem\ossp\lab 14 files\task4\task4.cpp(14): warning C4101: hIn: неиспользованная локальная переменная
+  Task4.vcxproj -> D:\study\5 sem\OSSP\Lab 14 Files\Debug\Task4.exe
+  Task4.vcxproj -> D:\study\5 sem\OSSP\Lab 14 Files\Debug\Task4.pdb (Full PDB)

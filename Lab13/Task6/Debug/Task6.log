@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Task6.cpp
+e:\лабы\осисп\lab13\task6\task6.cpp(17): warning C4101: fp: неиспользованная локальная переменная
+  Task6.vcxproj -> E:\лабы\ОСиСП\Lab13\Debug\Task6.exe

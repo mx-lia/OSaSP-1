@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab3.vcxproj, os6.vcxproj, os7.vcxproj, os8.vcxproj, os9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\Study\OSaSP-1\Lab10\1\main.cpp(114,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\OSaSP-1\Lab10\1\main.cpp(148,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\OSaSP-1\Lab10\1\main.cpp(183,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\OSaSP-1\Lab10\1\main.cpp(203,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\OSaSP-1\Lab10\1\main.cpp(238,3): warning C4018: <: несоответствие типов со знаком и без знака
+  1.vcxproj -> D:\Study\OSaSP-1\Lab10\Debug\os10.exe

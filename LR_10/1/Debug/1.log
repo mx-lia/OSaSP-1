@@ -1,0 +1,5 @@
+﻿  1.cpp
+D:\Study\OSaSP\LR_10\1\1.cpp(61,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\OSaSP\LR_10\1\1.cpp(65,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\OSaSP\LR_10\1\1.cpp(68,21): warning C4018: <: несоответствие типов со знаком и без знака
+  1.vcxproj -> D:\Study\OSaSP\LR_10\Debug\1.exe

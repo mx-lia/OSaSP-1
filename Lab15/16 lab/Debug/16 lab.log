@@ -1,0 +1,8 @@
+﻿  16 lab.cpp
+D:\Study\OSaSP\Lab15\16 lab\16 lab.cpp(21,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\OSaSP\Lab15\16 lab\16 lab.cpp(30,20): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Study\OSaSP\Lab15\16 lab\16 lab.cpp(38,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\OSaSP\Lab15\16 lab\16 lab.cpp(52,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\OSaSP\Lab15\16 lab\16 lab.cpp(59,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\OSaSP\Lab15\16 lab\16 lab.cpp(63,20): warning C4018: <: несоответствие типов со знаком и без знака
+  16 lab.vcxproj -> D:\Study\OSaSP\Lab15\Debug\16 lab.exe

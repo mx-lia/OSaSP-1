@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab 14 Files.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Lab 14 Files.cpp
+d:\study\5 sem\ossp\lab 14 files\lab 14 files\lab 14 files.cpp(14): warning C4101: Buffer: неиспользованная локальная переменная
+  Lab 14 Files.vcxproj -> D:\study\5 sem\OSSP\Lab 14 Files\Debug\Task2.exe
+  Lab 14 Files.vcxproj -> D:\study\5 sem\OSSP\Lab 14 Files\Debug\Task2.pdb (Full PDB)
